@@ -1,0 +1,1 @@
+# Stare-Y.POS
