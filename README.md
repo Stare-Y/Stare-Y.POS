@@ -14,3 +14,8 @@ steps:
 - After the tools installation is complete, configure the ANDROID_HOME environment variable. Go to Windows Control Panel > User Accounts > User Accounts (again) > Change my environment variables and click New to create a new ANDROID_HOME user variable. The value of this variable will point to the path to your Android SDK:
 
 - To add platform-tools to the Path, go to Windows Control Panel > User Accounts > User Accounts (again) > Change my environment variables > Path > Edit > New and add the path to the platform-tools to the list "the common path to platform tools is C:\Users\username\AppData\Local\Android\Sdk\platform-tools
+
+
+
+PROJECT WE CAN GET COMPONENTS FROM:
+https://github.com/MukeshSankhla/Open-Kiosk-App
