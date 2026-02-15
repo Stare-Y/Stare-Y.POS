@@ -1,5 +1,9 @@
 # Stare-Y.POS
 
+
+REQUIREMENTS AND BACKLOG DEPLOYMENT
+https://docs.google.com/document/d/1JK4zEJD8RVi68sVJSl1qALyqJrJ07Sd1dl1KPcgbM2g/edit?usp=sharing
+
 To start the fronten react native project, refer to:
 https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=simulated&mode=development-build
 
